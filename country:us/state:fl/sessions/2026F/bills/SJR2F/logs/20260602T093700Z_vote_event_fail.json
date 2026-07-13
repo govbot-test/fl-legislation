@@ -1,0 +1,277 @@
+{
+  "identifier": "",
+  "motion_text": "A - 682580, Amendment, Second Reading",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-02T09:37:00-04:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026F",
+  "bill": "b87a5d5c-765e-11f1-98b2-0ea9b7e4ac73",
+  "bill_action": null,
+  "bill_identifier": "SJR 2F",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Arrington",
+      "voter_id": "~{\"name\": \"Arrington\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Avila",
+      "voter_id": "~{\"name\": \"Avila\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Grall",
+      "voter_id": "~{\"name\": \"Grall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Polsky",
+      "voter_id": "~{\"name\": \"Polsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Berman",
+      "voter_id": "~{\"name\": \"Berman\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Gruters",
+      "voter_id": "~{\"name\": \"Gruters\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bernard",
+      "voter_id": "~{\"name\": \"Bernard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harrell",
+      "voter_id": "~{\"name\": \"Harrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rouson",
+      "voter_id": "~{\"name\": \"Rouson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hooper",
+      "voter_id": "~{\"name\": \"Hooper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharief",
+      "voter_id": "~{\"name\": \"Sharief\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bracy Davis",
+      "voter_id": "~{\"name\": \"Bracy Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Jones",
+      "voter_id": "~{\"name\": \"Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bradley",
+      "voter_id": "~{\"name\": \"Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Leek",
+      "voter_id": "~{\"name\": \"Leek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brodeur",
+      "voter_id": "~{\"name\": \"Brodeur\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Martin",
+      "voter_id": "~{\"name\": \"Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Truenow",
+      "voter_id": "~{\"name\": \"Truenow\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Burgess",
+      "voter_id": "~{\"name\": \"Burgess\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Massullo",
+      "voter_id": "~{\"name\": \"Massullo\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Trumbull",
+      "voter_id": "~{\"name\": \"Trumbull\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Burton",
+      "voter_id": "~{\"name\": \"Burton\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mayfield",
+      "voter_id": "~{\"name\": \"Mayfield\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Calatayud",
+      "voter_id": "~{\"name\": \"Calatayud\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McClain",
+      "voter_id": "~{\"name\": \"McClain\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Yarborough",
+      "voter_id": "~{\"name\": \"Yarborough\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan",
+      "voter_id": "~{\"name\": \"Nathan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Albritton",
+      "voter_id": "~{\"name\": \"Albritton\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DiCeglie",
+      "voter_id": "~{\"name\": \"DiCeglie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Osgood",
+      "voter_id": "~{\"name\": \"Osgood\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gaetz",
+      "voter_id": "~{\"name\": \"Gaetz\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Passidomo",
+      "voter_id": "~{\"name\": \"Passidomo\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Pizzo",
+      "voter_id": "~{\"name\": \"Pizzo\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rodriguez",
+      "voter_id": "~{\"name\": \"Rodriguez\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Boyd",
+      "voter_id": "~{\"name\": \"Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Simon",
+      "voter_id": "~{\"name\": \"Simon\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 21
+    },
+    {
+      "option": "not voting",
+      "value": 7
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026F/2F/Vote/SenateVote_s00002Fc1004.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

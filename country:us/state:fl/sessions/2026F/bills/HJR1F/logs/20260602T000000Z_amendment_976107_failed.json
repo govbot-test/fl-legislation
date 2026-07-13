@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment 976107 Failed",
+    "occurred_at": "2026-06-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026F",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026F/1F/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1F"
+}

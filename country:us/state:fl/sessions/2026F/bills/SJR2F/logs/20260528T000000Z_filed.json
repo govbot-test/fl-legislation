@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Filed",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026F",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026F/2F/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 2F"
+}

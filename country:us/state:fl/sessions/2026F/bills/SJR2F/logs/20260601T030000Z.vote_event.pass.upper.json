@@ -1,0 +1,145 @@
+{
+  "identifier": "",
+  "motion_text": "Favorable with Committee Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2026-06-01T03:00:00-04:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026F",
+  "bill": "b87a5d5c-765e-11f1-98b2-0ea9b7e4ac73",
+  "bill_action": null,
+  "bill_identifier": "SJR 2F",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brodeur",
+      "voter_id": "~{\"name\": \"Brodeur\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burgess",
+      "voter_id": "~{\"name\": \"Burgess\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DiCeglie",
+      "voter_id": "~{\"name\": \"DiCeglie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grall",
+      "voter_id": "~{\"name\": \"Grall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harrell",
+      "voter_id": "~{\"name\": \"Harrell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martin",
+      "voter_id": "~{\"name\": \"Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Massullo",
+      "voter_id": "~{\"name\": \"Massullo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McClain",
+      "voter_id": "~{\"name\": \"McClain\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Trumbull",
+      "voter_id": "~{\"name\": \"Trumbull\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rouson",
+      "voter_id": "~{\"name\": \"Rouson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hooper",
+      "voter_id": "~{\"name\": \"Hooper\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Berman",
+      "voter_id": "~{\"name\": \"Berman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pizzo",
+      "voter_id": "~{\"name\": \"Pizzo\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Polsky",
+      "voter_id": "~{\"name\": \"Polsky\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sharief",
+      "voter_id": "~{\"name\": \"Sharief\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://flsenate.gov/Session/Bill/2026F/2F/Vote/2026-06-01 0300PM~S00002F Vote Record.PDF",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

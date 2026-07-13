@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "CS by Appropriations read 1st time",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026F",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026F/4F/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 4F"
+}

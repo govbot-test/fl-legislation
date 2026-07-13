@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Officers and presented to Governor",
+    "occurred_at": "2026-06-23",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026F",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://flsenate.gov/Session/Bill/2026F/4F/ByCategory",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 4F"
+}
