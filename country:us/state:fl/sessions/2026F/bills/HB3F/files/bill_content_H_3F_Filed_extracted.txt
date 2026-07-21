@@ -1,0 +1,913 @@
+Title: 
+Official Title: 
+Source: versions - H 3F Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+1 A bill to be entitled
+2 An act relating to property tax administration;
+3 amending s. 200.001, F.S.; revising the definitions of
+4 the terms "maximum total county ad valorem taxes
+5 levied" and "maximum total municipal ad valorem taxes
+6 levied" to conform to changes made by the act;
+7 amending s. 200.065, F.S.; requiring the property
+8 appraiser to include a notice regarding a
+9 constitutional amendment or revision in certain
+10 notices relating to millage rates; revising
+11 limitations on the maximum millage rate that may be
+12 levied by certain units of government; amending s.
+13 200.069, F.S.; requiring that the notice of proposed
+14 property taxes include a notice regarding a
+15 constitutional amendment or revision submitted to the
+16 voters at the November 2026 general election;
+17 requiring the Department of Revenue to establish the
+18 uniform notice for use by the property appraiser;
+19 prohibiting the property appraiser from revising,
+20 editing, or modifying the notice; specifying
+21 requirements for the notice; amending s. 200.068,
+22 F.S.; conforming a provision to changes made by the
+23 act; reenacting ss. 218.12(2), 218.125(2), and
+24 218.136(2), F.S., relating to appropriations to offset
+25 reductions in ad valorem tax revenue in fiscally
+Page 1 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+26 constrained counties, offsets for tax loss associated
+27 with certain constitutional amendments affecting
+28 fiscally constrained counties, and offsets for ad
+29 valorem revenue loss affecting fiscally constrained
+30 counties, respectively, to incorporate the amendments
+31 made to s. 200.065, F.S., in references thereto;
+32 providing a directive to the Division of Law Revision;
+33 providing for the expiration and reversion of
+34 specified statutory text; requiring the Department of
+35 Revenue to establish a publicly accessible website
+36 relating to a specified constitutional amendment or
+37 revision submitted to the voters at the November 2026
+38 general election; specifying requirements for the
+39 website; providing construction; providing for
+40 expiration; authorizing the ballot summary of a
+41 specified proposed amendment or revision of the State
+42 Constitution to exceed a specified word limit;
+43 providing for construction of the act in pari materia
+44 with laws enacted during the 2026 Regular Session and
+45 2026 Special Session E of the Legislature; providing
+46 an appropriation; providing an effective date.
+47
+48 Be It Enacted by the Legislature of the State of Florida:
+49
+50 Section 1. Paragraphs (l) and (m) of subsection (8) of
+Page 2 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+51 section 200.001, Florida Statutes, are amended to read:
+52 200.001 Millages; definitions and general provisions.—
+53 (8)
+54 (l) "Maximum total county ad valorem taxes levied" means
+55 the total taxes levied by a county, municipal service taxing
+56 units of that county, and special districts dependent to that
+57 county at their individual maximum millages, authorized
+58 calculated pursuant to s. 200.065(5)(a) for fiscal years 2009-
+59 2010 and thereafter.
+60 (m) "Maximum total municipal ad valorem taxes levied"
+61 means the total taxes levied by a municipality and special
+62 districts dependent to that municipality at their individual
+63 maximum millages, authorized calculated pursuant to s.
+64 200.065(5)(a) s. 200.065(5)(b) for fiscal years 2009-2010 and
+65 thereafter.
+66 Section 2. Paragraphs (b) and (d) of subsection (2) and
+67 subsection (5) of section 200.065, Florida Statutes, are
+68 amended, and paragraph (c) is added to subsection (14) of that
+69 section, to read:
+70 200.065 Method of fixing millage.—
+71 (2) No millage shall be levied until a resolution or
+72 ordinance has been approved by the governing board of the taxing
+73 authority which resolution or ordinance must be approved by the
+74 taxing authority according to the following procedure:
+75 (b)1. Within 35 days of certification of value pursuant to
+Page 3 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+76 subsection (1), each taxing authority shall advise the property
+77 appraiser of its proposed millage rate, of its rolled-back rate
+78 computed pursuant to subsection (1), and of the date, time, and
+79 place at which a public hearing will be held to consider the
+80 proposed millage rate and the tentative budget. The property
+81 appraiser shall utilize this information in preparing the notice
+82 of proposed property taxes pursuant to s. 200.069. The deadline
+83 for mailing the notice shall be the later of 55 days after
+84 certification of value pursuant to subsection (1) or 10 days
+85 after either the date the tax roll is approved or the interim
+86 roll procedures under s. 193.1145 are instituted. However, for
+87 counties for which a state of emergency was declared by
+88 executive order or proclamation of the Governor pursuant to
+89 chapter 252, if mailing is not possible during the state of
+90 emergency, the property appraiser may post the notice on the
+91 county's website. If the deadline for mailing the notice of
+92 proposed property taxes is 10 days after the date the tax roll
+93 is approved or the interim roll procedures are instituted, all
+94 subsequent deadlines provided in this section shall be extended.
+95 In addition, the deadline for mailing the notice may be extended
+96 for 30 days in counties for which a state of emergency was
+97 declared by executive order or proclamation of the Governor
+98 pursuant to chapter 252, and property appraisers may use
+99 alternate methods of distribution only when mailing the notice
+100 is not possible. In such event, however, property appraisers
+Page 4 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+101 must work with county tax collectors to ensure the timely
+102 assessment and collection of taxes. The number of days by which
+103 the deadlines shall be extended shall equal the number of days
+104 by which the deadline for mailing the notice of proposed taxes
+105 is extended beyond 55 days after certification. If any taxing
+106 authority fails to provide the information required in this
+107 paragraph to the property appraiser in a timely fashion, the
+108 taxing authority shall be prohibited from levying a millage rate
+109 greater than the rolled-back rate computed pursuant to
+110 subsection (1) for the upcoming fiscal year, which rate shall be
+111 computed by the property appraiser and used in preparing the
+112 notice of proposed property taxes. Each multicounty taxing
+113 authority that levies taxes in any county that has extended the
+114 deadline for mailing the notice due to a declared state of
+115 emergency and that has noticed hearings in other counties must
+116 advertise the hearing at which it intends to adopt a tentative
+117 budget and millage rate in a newspaper of general paid
+118 circulation within each county not less than 2 days or more than
+119 5 days before the hearing.
+120 2. When mailing notices required pursuant to this
+121 paragraph, the property appraiser must include the notice
+122 required pursuant to s. 200.069(10) if a joint resolution
+123 proposing an amendment or a revision to ss. 4, 6, and 9, Art.
+124 VII of the State Constitution is to be submitted to the electors
+125 at the next general election.
+Page 5 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+126 (d) Within 15 days after the meeting adopting the
+127 tentative budget, the taxing authority shall advertise in a
+128 newspaper of general circulation in the county as provided in
+129 subsection (3), its intent to finally adopt a millage rate and
+130 budget. A public hearing to finalize the budget and adopt a
+131 millage rate shall be held not less than 2 days nor more than 5
+132 days after the day that the advertisement is first published. In
+133 the event of a need to postpone or recess the final meeting due
+134 to a declared state of emergency, the taxing authority may
+135 postpone or recess the hearing for up to 7 days and shall post a
+136 prominent notice at the place of the original hearing showing
+137 the date, time, and place where the hearing will be reconvened.
+138 The posted notice shall measure not less than 8.5 by 11 inches.
+139 The taxing authority shall make every reasonable effort to
+140 provide reasonable notification of the continued hearing to the
+141 taxpayers. The information must also be posted on the taxing
+142 authority's website. During the hearing, the governing body of
+143 the taxing authority shall amend the adopted tentative budget as
+144 it sees fit, adopt a final budget, and adopt a resolution or
+145 ordinance stating the millage rate to be levied. The resolution
+146 or ordinance shall state the percent, if any, by which the
+147 millage rate to be levied exceeds the rolled-back rate computed
+148 pursuant to subsection (1), which shall be characterized as the
+149 percentage increase in property taxes adopted by the governing
+150 body. The adoption of the budget and the millage-levy resolution
+Page 6 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+151 or ordinance shall be by separate votes. For each taxing
+152 authority levying millage, the name of the taxing authority, the
+153 rolled-back rate, the percentage increase, and the millage rate
+154 to be levied shall be publicly announced before the adoption of
+155 the millage-levy resolution or ordinance. In no event may the
+156 millage rate adopted pursuant to this paragraph exceed the
+157 millage rate tentatively adopted pursuant to paragraph (c).
+158 1. If the rate tentatively adopted pursuant to paragraph
+159 (c) exceeds the proposed rate provided to the property appraiser
+160 pursuant to paragraph (b), or as subsequently adjusted pursuant
+161 to subsection (11), each taxpayer within the jurisdiction of the
+162 taxing authority shall be sent notice by first-class mail of his
+163 or her taxes under the tentatively adopted millage rate and his
+164 or her taxes under the previously proposed rate. The notice must
+165 be prepared by the property appraiser, at the expense of the
+166 taxing authority, and must generally conform to the requirements
+167 of s. 200.069. If such additional notice is necessary, its
+168 mailing must precede the hearing held pursuant to this paragraph
+169 by not less than 10 days and not more than 15 days.
+170 2. When mailing notices required pursuant to subparagraph
+171 1., the property appraiser must include the notice required
+172 pursuant to s. 200.069(10) if a joint resolution proposing an
+173 amendment or a revision to ss. 4, 6, and 9, Art. VII of the
+174 State Constitution is to be submitted to the electors at the
+175 next general election.
+Page 7 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+176 (5) In each fiscal year:
+177 (a) The maximum millage rate that a county, municipality,
+178 special district dependent to a county or municipality,
+179 municipal service taxing unit, or independent special district
+180 may levy is the a rolled-back rate computed pursuant to
+181 subsection (1) based on the amount of taxes which would have
+182 been levied in the prior year if the maximum millage rate had
+183 been applied, adjusted for change in per capita Florida personal
+184 income, unless a higher rate was adopted, in which case the
+185 maximum is the adopted rate. The maximum millage rate applicable
+186 to a county authorized to levy a county public hospital surtax
+187 under s. 212.055 and which did so in fiscal year 2007 shall
+188 exclude the revenues required to be contributed to the county
+189 public general hospital in the current fiscal year for the
+190 purposes of making the maximum millage rate calculation, but
+191 shall be added back to the maximum millage rate allowed after
+192 the roll back has been applied, the total of which shall be
+193 considered the maximum millage rate for such a county for
+194 purposes of this subsection. The revenue required to be
+195 contributed to the county public general hospital for the
+196 upcoming fiscal year shall be calculated as 11.873 percent times
+197 the millage rate levied for countywide purposes in fiscal year
+198 2007 times 95 percent of the preliminary tax roll for the
+199 upcoming fiscal year. A higher rate may be adopted only under
+200 the following conditions:
+Page 8 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+201 1. A rate of not more than 110 percent of the rolled-back
+202 rate based on the previous year's maximum millage rate, adjusted
+203 for change in per capita Florida personal income, may be adopted
+204 if approved by a two-thirds vote of the membership of the
+205 governing body of the county, municipality, or independent
+206 district; or
+207 2. A rate in excess of 110 percent may be adopted if
+208 approved by a unanimous vote of the membership of the governing
+209 body of the county, municipality, or independent district or by
+210 a three-fourths vote of the membership of the governing body if
+211 the governing body has nine or more members, or if the rate is
+212 approved by a referendum.
+213 (b) The millage rate of a county or municipality,
+214 municipal service taxing unit of that county, and any special
+215 district dependent to that county or municipality may exceed the
+216 maximum millage rate authorized calculated pursuant to this
+217 subsection if the total county ad valorem taxes levied or total
+218 municipal ad valorem taxes levied do not exceed the maximum
+219 total county ad valorem taxes levied or maximum total municipal
+220 ad valorem taxes levied, respectively. Voted millage and taxes
+221 levied by a municipality or independent special district that
+222 has levied ad valorem taxes for less than 5 years are not
+223 subject to this limitation. The millage rate of a county
+224 authorized to levy a county public hospital surtax under s.
+225 212.055 may exceed the maximum millage rate authorized
+Page 9 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+226 calculated pursuant to this subsection to the extent necessary
+227 to account for the revenues required to be contributed to the
+228 county public hospital. Total taxes levied may exceed the
+229 maximum calculated pursuant to subsection (6) as a result of an
+230 increase in taxable value above that certified in subsection (1)
+231 if such increase is less than the percentage amounts contained
+232 in subsection (6) or if the administrative adjustment cannot be
+233 made because the value adjustment board is still in session at
+234 the time the tax roll is extended; otherwise, millage rates
+235 subject to this subsection may be reduced so that total taxes
+236 levied do not exceed the maximum.
+237
+238 Any unit of government operating under a home rule charter
+239 adopted pursuant to ss. 10, 11, and 24, Art. VIII of the State
+240 Constitution of 1885, as preserved by s. 6(e), Art. VIII of the
+241 State Constitution, which is granted the authority in the State
+242 Constitution to exercise all the powers conferred now or
+243 hereafter by general law upon municipalities and which exercises
+244 such powers in the unincorporated area shall be recognized as a
+245 municipality under this subsection. For a downtown development
+246 authority established before the effective date of the State
+247 Constitution which has a millage that must be approved by a
+248 municipality, the governing body of that municipality shall be
+249 considered the governing body of the downtown development
+250 authority for purposes of this subsection.
+Page 10 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+251 (14)
+252 (c) When mailing notices required pursuant to this
+253 subsection, the property appraiser must include the notice
+254 required pursuant to s. 200.069(10) if a joint resolution
+255 proposing an amendment or a revision to ss. 4, 6, and 9, Art.
+256 VII of the State Constitution is to be submitted to the electors
+257 at the next general election.
+258 Section 3. Section 200.069, Florida Statutes, is amended
+259 to read:
+260 200.069 Notice of proposed property taxes and non-ad
+261 valorem assessments.—Pursuant to s. 200.065(2)(b), the property
+262 appraiser, in the name of the taxing authorities and local
+263 governing boards levying non-ad valorem assessments within his
+264 or her jurisdiction and at the expense of the county, shall
+265 prepare and deliver by first-class mail to each taxpayer to be
+266 listed on the current year's assessment roll a notice of
+267 proposed property taxes, which notice shall contain the elements
+268 and use the format provided in the following form.
+269 Notwithstanding the provisions of s. 195.022, no county officer
+270 shall use a form other than that provided herein. The Department
+271 of Revenue may adjust the spacing and placement on the form of
+272 the elements listed in this section as it considers necessary
+273 based on changes in conditions necessitated by various taxing
+274 authorities. If the elements are in the order listed, the
+275 placement of the listed columns may be varied at the discretion
+Page 11 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+276 and expense of the property appraiser, and the property
+277 appraiser may use printing technology and devices to complete
+278 the form, the spacing, and the placement of the information in
+279 the columns. Except for the notice required under subsection
+280 (10) In addition, the property appraiser may not include in the
+281 mailing of the notice of ad valorem taxes and non-ad valorem
+282 assessments additional information or items unless such
+283 information or items explain a component of the notice or
+284 provide information directly related to the assessment and
+285 taxation of the property. Except for the notice required under
+286 subsection (10), a county officer may use a form other than that
+287 provided by the department for purposes of this part, but only
+288 if his or her office pays the related expenses and he or she
+289 obtains prior written permission from the executive director of
+290 the department; however, a county officer may not use a form the
+291 substantive content of which is at variance with the form
+292 prescribed by the department. The county officer may continue to
+293 use such an approved form until the law that specifies the form
+294 is amended or repealed or until the officer receives written
+295 disapproval from the executive director.
+296 (1) The first page of the notice shall read:
+297
+298 NOTICE OF PROPOSED PROPERTY TAXES
+299 DO NOT PAY—THIS IS NOT A BILL
+300
+Page 12 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+301 The taxing authorities which levy property taxes against
+302 your property will soon hold PUBLIC HEARINGS to adopt budgets
+303 and tax rates for the next year.
+304 The purpose of these PUBLIC HEARINGS is to receive opinions
+305 from the general public and to answer questions on the proposed
+306 tax change and budget PRIOR TO TAKING FINAL ACTION.
+307 Each taxing authority may AMEND OR ALTER its proposals at
+308 the hearing.
+309
+310 (2)(a) The notice shall include a brief legal description
+311 of the property, the name and mailing address of the owner of
+312 record, and the tax information applicable to the specific
+313 parcel in question. The information shall be in columnar form.
+314 There shall be seven column headings which shall read: "Taxing
+315 Authority," "Your Property Taxes Last Year," "Last Year's
+316 Adjusted Tax Rate (Millage)," "Your Taxes This Year IF NO Budget
+317 Change Is Adopted," "Tax Rate This Year IF PROPOSED Budget Is
+318 Adopted (Millage)," "Your Taxes This Year IF PROPOSED Budget
+319 Change Is Adopted," and "A Public Hearing on the Proposed Taxes
+320 and Budget Will Be Held:."
+321 (b) As used in this section, the term "last year's
+322 adjusted tax rate" means the rolled-back rate calculated
+323 pursuant to s. 200.065(1).
+324 (3) There shall be under each column heading an entry for
+325 the county; the school district levy required pursuant to s.
+Page 13 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+326 1011.60(6); other operating school levies; the municipality or
+327 municipal service taxing unit or units in which the parcel lies,
+328 if any; the water management district levying pursuant to s.
+329 373.503; the independent special districts in which the parcel
+330 lies, if any; and for all voted levies for debt service
+331 applicable to the parcel, if any.
+332 (4) For each entry listed in subsection (3), there shall
+333 appear on the notice the following:
+334 (a) In the first column, a brief, commonly used name for
+335 the taxing authority or its governing body. The entry in the
+336 first column for the levy required pursuant to s. 1011.60(6)
+337 shall be "By State Law." The entry for other operating school
+338 district levies shall be "By Local Board." Both school levy
+339 entries shall be indented and preceded by the notation "Public
+340 Schools:". For each voted levy for debt service, the entry shall
+341 be "Voter Approved Debt Payments."
+342 (b) In the second column, the gross amount of ad valorem
+343 taxes levied against the parcel in the previous year. If the
+344 parcel did not exist in the previous year, the second column
+345 shall be blank.
+346 (c) In the third column, last year's adjusted tax rate or,
+347 in the case of voted levies for debt service, the tax rate
+348 previously authorized by referendum.
+349 (d) In the fourth column, the gross amount of ad valorem
+350 taxes which will apply to the parcel in the current year if each
+Page 14 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+351 taxing authority levies last year's adjusted tax rate or, in the
+352 case of voted levies for debt service, the amount previously
+353 authorized by referendum.
+354 (e) In the fifth column, the tax rate that each taxing
+355 authority must levy against the parcel to fund the proposed
+356 budget or, in the case of voted levies for debt service, the tax
+357 rate previously authorized by referendum.
+358 (f) In the sixth column, the gross amount of ad valorem
+359 taxes that must be levied in the current year if the proposed
+360 budget is adopted.
+361 (g) In the seventh column, the date, the time, and a brief
+362 description of the location of the public hearing required
+363 pursuant to s. 200.065(2)(c).
+364 (5) Following the entries for each taxing authority, a
+365 final entry shall show: in the first column, the words "Total
+366 Property Taxes:" and in the second, fourth, and sixth columns,
+367 the sum of the entries for each of the individual taxing
+368 authorities. The second, fourth, and sixth columns shall,
+369 immediately below said entries, be labeled Column 1, Column 2,
+370 and Column 3, respectively. Below these labels shall appear, in
+371 boldfaced type, the statement: SEE REVERSE SIDE FOR EXPLANATION.
+372 (6)(a) The second page of the notice shall state the
+373 parcel's market value and for each taxing authority that levies
+374 an ad valorem tax against the parcel:
+375 1. The assessed value, value of exemptions, and taxable
+Page 15 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+376 value for the previous year and the current year.
+377 2. Each assessment reduction and exemption applicable to
+378 the property, including the value of the assessment reduction or
+379 exemption and tax levies to which they apply.
+380 (b) The reverse side of the second page shall contain
+381 definitions and explanations for the values included on the
+382 front side.
+383 (7) The following statement shall appear after the values
+384 listed on the front of the second page:
+385
+386 If you feel that the market value of your property is
+387 inaccurate or does not reflect fair market value, or if you are
+388 entitled to an exemption or classification that is not reflected
+389 above, contact your county property appraiser at ...(phone
+390 number)... or ...(location)....
+391 If the property appraiser's office is unable to resolve the
+392 matter as to market value, classification, or an exemption, you
+393 may file a petition for adjustment with the Value Adjustment
+394 Board. Petition forms are available from the county property
+395 appraiser and must be filed ON OR BEFORE ...(date)....
+396 (8) The reverse side of the first page of the form shall
+397 read:
+398
+399 EXPLANATION
+400
+Page 16 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+401 *COLUMN 1—"YOUR PROPERTY TAXES LAST YEAR"
+402 This column shows the taxes that applied last year to your
+403 property. These amounts were based on budgets adopted last year
+404 and your property's previous taxable value.
+405 *COLUMN 2—"YOUR TAXES IF NO BUDGET CHANGE IS ADOPTED"
+406 This column shows what your taxes will be this year IF EACH
+407 TAXING AUTHORITY DOES NOT CHANGE ITS PROPERTY TAX LEVY. These
+408 amounts are based on last year's budgets and your current
+409 assessment.
+410 *COLUMN 3—"YOUR TAXES IF PROPOSED BUDGET CHANGE IS ADOPTED"
+411 This column shows what your taxes will be this year under the
+412 BUDGET ACTUALLY PROPOSED by each local taxing authority. The
+413 proposal is NOT final and may be amended at the public hearings
+414 shown on the front side of this notice. The difference between
+415 columns 2 and 3 is the tax change proposed by each local taxing
+416 authority and is NOT the result of higher assessments.
+417
+418 *Note: Amounts shown on this form do NOT reflect early payment
+419 discounts you may have received or may be eligible to receive.
+420 (Discounts are a maximum of 4 percent of the amounts shown on
+421 this form.)
+422 (9) The bottom portion of the notice shall further read in
+423 bold, conspicuous print:
+424
+425 "Your final tax bill may contain non-ad valorem
+Page 17 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+426 assessments which may not be reflected on this notice
+427 such as assessments for roads, fire, garbage,
+428 lighting, drainage, water, sewer, or other
+429 governmental services and facilities which may be
+430 levied by your county, city, or any special district."
+431
+432 (10) Pursuant to s. 200.065(2)(b)2., (2)(d)2., and
+433 (14)(c), and in addition to the notice prescribed by subsections
+434 (1)-(9), if a joint resolution proposing an amendment or a
+435 revision to ss. 4, 6, and 9, Art. VII of the State Constitution
+436 is to be submitted to the electors at the November 2026 general
+437 election, the Department of Revenue shall establish the uniform
+438 notice of proposed constitutional amendment or revision as
+439 specified in this subsection which the property appraiser shall
+440 prepare and deliver by first-class mail to each taxpayer to be
+441 listed on the current year's assessment roll. The notice must
+442 contain the elements and use the format provided in the
+443 following form and must be provided by the property appraiser as
+444 a separate physical document. The property appraiser may not
+445 revise, edit, or modify the notice.
+446 (a) The notice must read:
+447
+448 NOTICE OF PROPOSED CONSTITUTIONAL AMENDMENT
+449 RELATED TO PROPERTY TAXES
+450
+Page 18 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+451 The Florida Legislature has proposed an amendment to the
+452 Florida Constitution to be submitted to the electors of this
+453 state for approval or rejection at the next general election on
+454 November 3, 2026.
+455
+456 The following title and summary will be placed on the
+457 ballot:
+458
+459 (Insert ballot title and summary as it will appear on the
+460 ballot)
+461
+462 If approved by the voters, the amendment will take effect
+463 on (insert effective date of proposed amendment) and will first
+464 apply to the (insert tax year) tax year.
+465
+466 The State of Florida has created a website to allow
+467 taxpayers to calculate the estimated ad valorem tax savings that
+468 the proposed amendment may have had on each homestead property
+469 as if it had been in effect for the 2025 tax year. To view the
+470 website, visit the following website address: (insert website
+471 address to website created pursuant to this act) or scan the QR
+472 code on this notice.
+473
+474 This notice is not advocating for the passage or defeat of
+475 the proposed constitutional amendment. This notice has been
+Page 19 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+476 mailed to all property taxpayers in this state pursuant to
+477 sections 200.065 and 200.069, Florida Statutes.
+478
+479 (b) The notice prescribed in this subsection:
+480 1. Must be printed on standard letter size paper of 8.5
+481 inches in width and 11 inches in length, with a font size of at
+482 least 12 points for all text required by this subsection;
+483 2. Must include a quick response code that links to the
+484 website created pursuant to this act;
+485 3. Must be in the official language of the state, and, in
+486 counties subject to multi-language ballot requirements, include
+487 a translation to the required language on the back side of the
+488 notice;
+489 4. May include a graphic image not to exceed 3 inches in
+490 width and 1.5 inches in length; and
+491 5. May not include any information not expressly
+492 authorized by this section.
+493
+494 (11)(a)(10)(a) If requested by the local governing board
+495 levying non-ad valorem assessments and agreed to by the property
+496 appraiser, the notice specified in this section may contain a
+497 notice of proposed or adopted non-ad valorem assessments. If so
+498 agreed, the notice shall be titled:
+499
+500 NOTICE OF PROPOSED PROPERTY TAXES
+Page 20 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+501 AND PROPOSED OR ADOPTED
+502 NON-AD VALOREM ASSESSMENTS
+503 DO NOT PAY—THIS IS NOT A BILL
+504
+505 There must be a clear partition between the notice of proposed
+506 property taxes and the notice of proposed or adopted non-ad
+507 valorem assessments. The partition must be a bold, horizontal
+508 line approximately 1/8-inch thick. By rule, the department shall
+509 provide a format for the form of the notice of proposed or
+510 adopted non-ad valorem assessments which meets the following
+511 minimum requirements:
+512 1. There must be subheading for columns listing the
+513 levying local governing board, with corresponding assessment
+514 rates expressed in dollars and cents per unit of assessment, and
+515 the associated assessment amount.
+516 2. The purpose of each assessment must also be listed in
+517 the column listing the levying local governing board if the
+518 purpose is not clearly indicated by the name of the board.
+519 3. Each non-ad valorem assessment for each levying local
+520 governing board must be listed separately.
+521 4. If a county has too many municipal service benefit
+522 units or assessments to be listed separately, it shall combine
+523 them by function.
+524 5. A brief statement outlining the responsibility of the
+525 tax collector and each levying local governing board as to any
+Page 21 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+526 non-ad valorem assessment must be provided on the form,
+527 accompanied by directions as to which office to contact for
+528 particular questions or problems.
+529 (b) If the notice includes all adopted non-ad valorem
+530 assessments, the provisions contained in subsection (9) shall
+531 not be placed on the notice.
+532 Section 4. Section 200.068, Florida Statutes, is amended
+533 to read:
+534 200.068 Certification of compliance with this chapter.—Not
+535 later than 30 days following adoption of an ordinance or
+536 resolution establishing a property tax levy, each taxing
+537 authority shall certify compliance with the provisions of this
+538 chapter to the Department of Revenue. In addition to a statement
+539 of compliance, such certification shall include a copy of the
+540 ordinance or resolution so adopted; a copy of the certification
+541 of value showing rolled-back millage and proposed millage rates,
+542 as provided to the property appraiser pursuant to s. 200.065(1)
+543 and (2)(b); maximum millage rates authorized calculated pursuant
+544 to s. 200.065(5), together with values and calculations upon
+545 which the maximum millage rates are based; and a certified copy
+546 of the advertisement, as published pursuant to s. 200.065(3). In
+547 certifying compliance, the governing body of the county shall
+548 also include a certified copy of the notice required under s.
+549 194.037. However, if the value adjustment board completes its
+550 hearings after the deadline for certification under this
+Page 22 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+551 section, the county shall submit such copy to the department not
+552 later than 30 days following completion of such hearings.
+553 Section 5. For the purpose of incorporating the amendment
+554 made by this act to section 200.065, Florida Statutes, in a
+555 reference thereto, subsection (2) of section 218.12, Florida
+556 Statutes, is reenacted to read:
+557 218.12 Appropriations to offset reductions in ad valorem
+558 tax revenue in fiscally constrained counties.—
+559 (2) On or before November 15 of each year, each fiscally
+560 constrained county shall apply to the Department of Revenue to
+561 participate in the distribution of the appropriation and provide
+562 documentation supporting the county's estimated reduction in ad
+563 valorem tax revenue in the form and manner prescribed by the
+564 Department of Revenue. The documentation must include an
+565 estimate of the reduction in taxable value directly attributable
+566 to revisions of Art. VII of the State Constitution for all
+567 county taxing jurisdictions within the county and shall be
+568 prepared by the property appraiser in each fiscally constrained
+569 county. The documentation must also include the county millage
+570 rates applicable in all such jurisdictions for both the current
+571 year and the prior year; rolled-back rates, determined as
+572 provided in s. 200.065, for each county taxing jurisdiction; and
+573 maximum millage rates that could have been levied by majority
+574 vote pursuant to s. 200.065(5). For purposes of this section,
+575 each fiscally constrained county's reduction in ad valorem tax
+Page 23 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+576 revenue shall be calculated as 95 percent of the estimated
+577 reduction in taxable value times the lesser of the 2007
+578 applicable millage rate or the applicable millage rate for each
+579 county taxing jurisdiction in the current year. If a fiscally
+580 constrained county fails to apply for the distribution, its
+581 share shall revert to the fund from which the appropriation was
+582 made.
+583 Section 6. For the purpose of incorporating the amendment
+584 made by this act to section 200.065, Florida Statutes, in a
+585 reference thereto, subsection (2) of section 218.125, Florida
+586 Statutes, is reenacted to read:
+587 218.125 Offset for tax loss associated with certain
+588 constitutional amendments affecting fiscally constrained
+589 counties.—
+590 (2) On or before November 15 of each year, each fiscally
+591 constrained county shall apply to the Department of Revenue to
+592 participate in the distribution of the appropriation and provide
+593 documentation supporting the county's estimated reduction in ad
+594 valorem tax revenue in the form and manner prescribed by the
+595 Department of Revenue. The documentation must include an
+596 estimate of the reduction in taxable value directly attributable
+597 to revisions of Art. VII of the State Constitution for all
+598 county taxing jurisdictions within the county and shall be
+599 prepared by the property appraiser in each fiscally constrained
+600 county. The documentation must also include the county millage
+Page 24 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+601 rates applicable in all such jurisdictions for the current year
+602 and the prior year, rolled-back rates determined as provided in
+603 s. 200.065 for each county taxing jurisdiction, and maximum
+604 millage rates that could have been levied by majority vote
+605 pursuant to s. 200.065(5). For purposes of this section, each
+606 fiscally constrained county's reduction in ad valorem tax
+607 revenue shall be calculated as 95 percent of the estimated
+608 reduction in taxable value multiplied by the lesser of the 2010
+609 applicable millage rate or the applicable millage rate for each
+610 county taxing jurisdiction in the current year. If a fiscally
+611 constrained county fails to apply for the distribution, its
+612 share shall revert to the fund from which the appropriation was
+613 made.
+614 Section 7. For the purpose of incorporating the amendment
+615 made by this act to section 200.065, Florida Statutes, in a
+616 reference thereto, subsection (2) of section 218.136, Florida
+617 Statutes, is reenacted to read:
+618 218.136 Offset for ad valorem revenue loss affecting
+619 fiscally constrained counties.—
+620 (2) On or before November 15 of each year, each fiscally
+621 constrained county shall apply to the Department of Revenue to
+622 participate in the distribution of the appropriation and provide
+623 documentation supporting the county's estimated reduction in ad
+624 valorem tax revenue in the form and manner prescribed by the
+625 Department of Revenue. The documentation must include an
+Page 25 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+626 estimate of the reduction in taxable value directly attributable
+627 to revisions of s. 6(a), Art. VII of the State Constitution
+628 approved in the November 2024 general election for all county
+629 taxing jurisdictions within the county and shall be prepared by
+630 the property appraiser in each fiscally constrained county. The
+631 documentation must also include the county millage rates
+632 applicable in all such jurisdictions for the current year and
+633 the prior year, rolled-back rates determined as provided in s.
+634 200.065 for each county taxing jurisdiction, and maximum millage
+635 rates that could have been levied by majority vote pursuant to
+636 s. 200.065(5). For purposes of this section, each fiscally
+637 constrained county's reduction in ad valorem tax revenue shall
+638 be calculated as 95 percent of the estimated reduction in
+639 taxable value multiplied by the lesser of the 2024 applicable
+640 millage rate or the applicable millage rate for each county
+641 taxing jurisdiction in the current year. If a fiscally
+642 constrained county fails to apply for the distribution, its
+643 share shall revert to the fund from which the appropriation was
+644 made.
+645 Section 8. The Division of Law Revision is directed to
+646 replace the phrase "this act" wherever it occurs in s. 200.069,
+647 Florida Statutes, as amended by this act, with the assigned
+648 chapter number of this act.
+649 Section 9. The amendments to ss. 200.065(2) and (14) and
+650 200.069, Florida Statutes, made by this act expire December 31,
+Page 26 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+651 2026, and the text of those sections shall revert to that in
+652 existence on the day before the date on which this act became a
+653 law, except that any amendments to such text enacted other than
+654 by this act shall be preserved and continue to operate to the
+655 extent that such amendments are not dependent upon the portions
+656 of text which expire pursuant to this section.
+657 Section 10. (1) If a joint resolution proposing an
+658 amendment or a revision to ss. 4, 6, and 9, Article VII of the
+659 State Constitution is to be submitted to the electors at the
+660 November 2026 general election, the Department of Revenue shall,
+661 within 10 days after the effective date of this act, provide a
+662 publicly accessible website for informing property tax payers of
+663 the estimated ad valorem tax savings that could result from the
+664 proposed constitutional amendment or revision on properties
+665 eligible for an exemption pursuant to s. 6(a), Article VII of
+666 the State Constitution, as if the proposed amendment had been in
+667 effect for the 2025 tax year. The website must be in the
+668 official language of the state; however, the website must be
+669 capable of translation to other languages and must be compliant
+670 with federal regulations promulgated under Title II of the
+671 Americans with Disabilities Act. The website must provide:
+672 (a) The ballot title and summary as they will appear on
+673 the ballot, and the full text of the amendment or revision to
+674 ss. 4, 6, and 9, Article VII of the State Constitution.
+675 (b) An interactive tool that, for an individual property
+Page 27 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+676 eligible for an exemption pursuant to s. 6(a), Article VII of
+677 the State Constitution:
+678 1. Specifies the ad valorem taxes that were due for the
+679 2025 tax year.
+680 2. Calculates an estimate of the ad valorem taxes that
+681 would be due for the 2025 tax year as if the proposed
+682 constitutional amendment were in effect for that tax year.
+683 (c) Notice that an owner of a parcel who is exempt from
+684 public disclosure under s. 119.07(1), Florida Statutes, and s.
+685 24(a), Article I of the State Constitution may contact the
+686 Department of Revenue to obtain an estimate not available on the
+687 website.
+688 (d) The following statement in bold font with a font size
+689 greater than or equal to 16 pixels on a standard screen:
+690
+691 This website is not advocating for the passage or defeat of
+692 a proposed constitutional amendment. This website was created by
+693 the State of Florida pursuant to (insert the assigned chapter
+694 number of this act).
+695 The estimated impact produced by the calculator may not
+696 include all non-ad valorem assessments.
+697
+698 (2) This section may not be construed to allow the
+699 unauthorized disclosure of the location or the owners of parcels
+700 which are exempt from disclosure under s. 119.07(1), Florida
+Page 28 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+701 Statutes, and s. 24(a), Article I of the State Constitution.
+702 (3) The website provided under this section constitutes
+703 posting factual information on a government website as
+704 authorized under ss. 106.113 and 106.151, Florida Statutes.
+705 (4) This section expires January 1, 2029.
+706 Section 11. Notwithstanding s. 101.161(3)(a), Florida
+707 Statutes, a ballot summary may exceed 75 words for a joint
+708 resolution proposing an amendment or a revision to ss. 4, 6, and
+709 9, Article VII of the State Constitution which is to be
+710 submitted to the electors at the general election to be held on
+711 November 3, 2026.
+712 Section 12. If any law amended by this act was also
+713 amended by a law enacted during the 2026 Regular Session or 2026
+714 Special Session E of the Legislature, such laws shall be
+715 construed as if they had been enacted during the same session of
+716 the Legislature and full effect shall be given to each if
+717 possible.
+718 Section 13. For the 2026-2027 fiscal year, the
+719 nonrecurring sum of $5.5 million from the General Revenue Fund
+720 is appropriated to the Department of Revenue to reimburse each
+721 county for the expense associated with printing and mailing the
+722 additional insert required by s. 200.069(10), Florida Statutes,
+723 as amended by this act. The balance of any unexpended funds
+724 shall revert on December 31, 2026.
+725 Section 14. This act shall take effect upon becoming a
+Page 29 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
+
+F L O R I D A H O U S E O F R E P R E S E N T A T I V E S
+HB 3F 2026F
+726 law.
+Page 30 of 30
+CODING: Words stricken are deletions; words underlined are additions.
+hb3f-00
